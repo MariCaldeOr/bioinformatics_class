@@ -4,4 +4,8 @@
 
 ### Part 1
 
-'git init'
+`git init`
+
+*italicized*
+
+---
